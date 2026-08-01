@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I am Nomad
 
-<!--
-**Nomad07/Nomad07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🌐 Interested in Web3 and DeFi
+- 💻 Learning Git and GitHub
+- 🐍 Exploring Python and automation
+- 🚀 Building practical projects step by step
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- Git and GitHub
+- Open Source
+- Blockchain Infrastructure
+- AI Tools
+
+## Featured Repository
+
+- 🔹 Razor – personal repository for Git, GitHub and automation practice
+
+---
+
+Thanks for visiting my profile!
