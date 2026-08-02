@@ -14,9 +14,7 @@
 - Blockchain Infrastructure
 - AI Tools
 
-## Featured Repository
 
-- 🔹 Razor – personal repository for Git, GitHub and automation practice
 
 ---
 
