@@ -1,5 +1,8 @@
 # 👋 Hi, I am Nomad
 
+🚀 Crypto Researcher ⚡ DeFi Explorer 
+🛠 GitHub Experiments • Open Source • Automation
+
 ## About Me
 
 - 🌐 Interested in Web3 and DeFi
