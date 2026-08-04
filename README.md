@@ -19,3 +19,8 @@
 ---
 
 Thanks for visiting my profile!
+
+
+## 🐍 Contribution Snake
+
+![Snake Animation](https://github.com/Nomad07/Nomad07/blob/output/github-contribution-grid-snake.svg)
