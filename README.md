@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="banner.png" alt="Nomad Banner" width="100%">
-</p>
-
-# 👋 Hi, I am Nomad
+ # 👋 Hi, I am Nomad
 
 🚀 Crypto Researcher ⚡ DeFi Explorer  
 🛠 GitHub Experiments • Open Source • Automation
@@ -21,6 +17,11 @@
 - Blockchain Infrastructure
 - AI Tools
 
+## 💻 Languages
+
+<!-- LANGUAGES:START -->
+<!-- LANGUAGES:END -->
+
 ## Projects
 
 ### Arc Wallet Checker
@@ -29,12 +30,15 @@ A simple Python tool for checking wallet information on the Arc network.
 
 [View repository](https://github.com/Nomad07/arc-wallet-checker)
 
+### Arc USDC App
+
+A simple React and TypeScript application for connecting a Rabby wallet to Arc Testnet and checking wallet information.
+
+[View repository](https://github.com/Nomad07/arc-usdc-app)
 
 Thanks for visiting my profile!
 
 🐍 Contribution Snake
-
-![snake animation](https://github.com/Nomad07/Nomad07/blob/output/github-contribution-grid-snake.svg)
 
 
 
