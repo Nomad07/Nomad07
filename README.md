@@ -21,6 +21,15 @@
 - Blockchain Infrastructure
 - AI Tools
 
+## Projects
+
+### Arc Wallet Checker
+
+A simple Python tool for checking wallet information on the Arc network.
+
+[View repository](https://github.com/Nomad07/arc-wallet-checker)
+
+
 Thanks for visiting my profile!
 
 🐍 Contribution Snake
