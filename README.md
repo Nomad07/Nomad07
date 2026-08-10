@@ -28,13 +28,11 @@
 ## 💻 Languages
 
 <!-- LANGUAGES:START -->
-
-* **Python** 43.6%
-* **TypeScript** 27.0%
-* **CSS** 24.7%
-* **JavaScript** 2.9%
-* **HTML** 1.8%
-
+- **Python** 37.7%
+- **TypeScript** 34.0%
+- **CSS** 23.8%
+- **JavaScript** 2.8%
+- **HTML** 1.7%
 <!-- LANGUAGES:END -->
 
 ## Projects
