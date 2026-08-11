@@ -28,23 +28,26 @@
 ## 💻 Languages
 
 <!-- LANGUAGES:START -->
-- **Python** 37.7%
-- **TypeScript** 34.0%
-- **CSS** 23.8%
-- **JavaScript** 2.8%
-- **HTML** 1.7%
+
+* **Python** 37.7%
+* **TypeScript** 34.0%
+* **CSS** 23.8%
+* **JavaScript** 2.8%
+* **HTML** 1.7%
+
 <!-- LANGUAGES:END -->
 
 ## Projects
 
-### Arc Wallet Checker
+### Arc Payment Monitor
 
-A simple Python tool for checking wallet information on the Arc network.
+A lightweight Python tool for monitoring payments on the Arc network.
 
-[View repository](https://github.com/Nomad07/arc-wallet-checker)
+[View repository](https://github.com/Nomad07/arc-payment-monitor)
 
 Thanks for visiting my profile!
 
 ## 🐍 Contribution Snake
 
 ![Contribution Snake](https://raw.githubusercontent.com/Nomad07/Nomad07/output/github-contribution-grid-snake.svg)
+
