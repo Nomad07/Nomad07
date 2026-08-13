@@ -41,13 +41,13 @@
 
 ### Arc Payment Monitor
 
-A lightweight Python tool for monitoring payments on the Arc network.
+Real-time token payment monitoring for the Arc network.
 
 [View repository](https://github.com/Nomad07/arc-payment-monitor)
 
 ### Arc Agent ID
 
-A lightweight Python toolkit for interacting with AI agent identities on Arc Testnet using ERC-8004.
+A Python toolkit for registering and checking AI agent identities on Arc Testnet using ERC-8004.
 
 [View repository](https://github.com/Nomad07/arc-agent-id)
 
