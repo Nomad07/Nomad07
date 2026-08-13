@@ -45,9 +45,14 @@ A lightweight Python tool for monitoring payments on the Arc network.
 
 [View repository](https://github.com/Nomad07/arc-payment-monitor)
 
+### Arc Agent ID
+
+A lightweight Python toolkit for interacting with AI agent identities on Arc Testnet using ERC-8004.
+
+[View repository](https://github.com/Nomad07/arc-agent-id)
+
 Thanks for visiting my profile!
 
 ## 🐍 Contribution Snake
 
 ![Contribution Snake](https://raw.githubusercontent.com/Nomad07/Nomad07/output/github-contribution-grid-snake.svg)
-
