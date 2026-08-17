@@ -51,6 +51,6 @@ A Python toolkit for registering and checking AI agent identities on Arc Testnet
 
 Thanks for visiting my profile!
 
-## 🐍 Contribution Snake
-
-![Contribution Snake](https://raw.githubusercontent.com/Nomad07/Nomad07/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="arc-agent-demo.gif" alt="Arc Agent ID Demo" width="900">
+</p>
