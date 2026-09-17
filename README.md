@@ -50,7 +50,3 @@ A Python toolkit for registering and checking AI agent identities on Arc Testnet
 [View repository](https://github.com/Nomad07/arc-agent-id)
 
 Thanks for visiting my profile!
-
-<p align="center">
-  <img src="arc-agent-demo.gif" alt="Arc Agent ID Demo" width="900">
-</p>
