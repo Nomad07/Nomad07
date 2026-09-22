@@ -43,9 +43,14 @@
 
 An explorer for discovering and inspecting ERC-8004 agents on Arc Mainnet and Testnet.
 
-[View live explorer](https://arc-erc8004-explorer.vercel.app/)
-
-[View repository](https://github.com/Nomad07/arc-erc8004-explorer)
+<p>
+  <a href="https://arc-erc8004-explorer.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Explorer-Arc%20ERC--8004-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Explorer">
+  </a>
+  <a href="https://github.com/Nomad07/arc-erc8004-explorer">
+    <img src="https://img.shields.io/badge/Repository-GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
+  </a>
+</p>
 
 ### Arc Agent ID
 
