@@ -28,14 +28,24 @@
 ## 💻 Languages
 
 <!-- LANGUAGES:START -->
-- **Python** 85.6%
-- **TypeScript** 7.8%
-- **CSS** 5.5%
-- **JavaScript** 0.6%
-- **HTML** 0.4%
+
+* **Python** 85.6%
+* **TypeScript** 7.8%
+* **CSS** 5.5%
+* **JavaScript** 0.6%
+* **HTML** 0.4%
+
 <!-- LANGUAGES:END -->
 
 ## Projects
+
+### Arc ERC-8004 Explorer
+
+An explorer for discovering and inspecting ERC-8004 agents on Arc Mainnet and Testnet.
+
+[View live explorer](https://arc-erc8004-explorer.vercel.app/)
+
+[View repository](https://github.com/Nomad07/arc-erc8004-explorer)
 
 ### Arc Agent ID
 
