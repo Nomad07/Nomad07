@@ -41,14 +41,15 @@
 
 ### Arc ERC-8004 Explorer
 
-An explorer for discovering and inspecting ERC-8004 agents on Arc Mainnet and Testnet.
+**Discover and inspect ERC-8004 agents on Arc Mainnet and Testnet.**
 
 <p>
   <a href="https://arc-erc8004-explorer.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Explorer-Arc%20ERC--8004-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Explorer">
+    <img src="https://img.shields.io/badge/%E2%86%92%20OPEN%20EXPLORER-111827?style=for-the-badge" alt="Open Explorer">
   </a>
+  &nbsp;
   <a href="https://github.com/Nomad07/arc-erc8004-explorer">
-    <img src="https://img.shields.io/badge/Repository-GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
+    <img src="https://img.shields.io/badge/%E2%86%92%20VIEW%20SOURCE-111827?style=for-the-badge" alt="View Source">
   </a>
 </p>
 
