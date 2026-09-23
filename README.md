@@ -44,7 +44,7 @@
 **Discover and inspect ERC-8004 agents on Arc Mainnet and Testnet.**
 
 <p>
-  <a href="https://arc-erc8004-explorer.vercel.app/">
+  <a href="https://arcagents.app/">
     <img src="https://img.shields.io/badge/%E2%86%92%20OPEN%20EXPLORER-111827?style=for-the-badge" alt="Open Explorer">
   </a>
   &nbsp;
