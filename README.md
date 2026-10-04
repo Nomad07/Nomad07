@@ -28,12 +28,14 @@
 ## 💻 Languages
 
 <!-- LANGUAGES:START -->
-- **Solidity** 74.1%
-- **TypeScript** 18.5%
-- **Python** 6.1%
-- **CSS** 0.9%
-- **HTML** 0.2%
-- **Shell** 0.1%
+
+* **Solidity** 74.1%
+* **TypeScript** 18.5%
+* **Python** 6.1%
+* **CSS** 0.9%
+* **HTML** 0.2%
+* **Shell** 0.1%
+
 <!-- LANGUAGES:END -->
 
 ## Projects
@@ -52,16 +54,16 @@
   </a>
 </p>
 
+### NFT Data
+
+**A read-only OpenSea Agent Tool providing structured multichain NFT collection and market data for AI agents.**
+
+[Open website](https://nftdata.app/) • [View repository](https://github.com/Nomad07/nft-data) • [View Tool #778](https://opensea.io/tools/erc8257/base/778)
+
 ### Arc Agent ID
 
 A Python toolkit for registering, checking and updating AI agent identities on Arc Mainnet and Testnet using ERC-8004.
 
 [View repository](https://github.com/Nomad07/arc-agent-id)
-
-### Arc Payment Monitor
-
-Real-time token payment monitoring for the Arc network.
-
-[View repository](https://github.com/Nomad07/arc-payment-monitor)
 
 Thanks for visiting my profile!
