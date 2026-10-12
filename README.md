@@ -28,10 +28,10 @@
 ## 💻 Languages
 
 <!-- LANGUAGES:START -->
-- **Solidity** 71.7%
-- **TypeScript** 19.4%
-- **Python** 5.9%
-- **HTML** 1.9%
+- **Solidity** 70.8%
+- **TypeScript** 20.2%
+- **Python** 5.8%
+- **HTML** 2.1%
 - **CSS** 0.8%
 - **Shell** 0.1%
 <!-- LANGUAGES:END -->
