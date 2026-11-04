@@ -1,29 +1,31 @@
-<p align="center">
+ <p align="center">
   <img src="banner.png" alt="Nomad Banner" width="100%">
 </p>
 
 # 👋 Hi, I am Nomad
 
-🚀 Crypto Researcher ⚡ DeFi Explorer
+**Independent Web3 & AI Infrastructure Builder**
 
-🛠 GitHub Experiments • Open Source • Automation
+Building open-source products at the intersection of blockchain infrastructure, AI agents, data services and automated payments.
 
-## About Me
+## 👤 About Me
 
-🌐 Interested in Web3 and DeFi
+I build practical tools and infrastructure for the evolving Web3 and AI ecosystems.
 
-💻 Learning Git and GitHub
+My work focuses on:
+- Blockchain infrastructure and on-chain data
+- AI agent tools and Model Context Protocol (MCP)
+- ERC-8004 agent identity and discovery
+- x402 and MPP machine-to-machine payments
+- Open-source APIs and developer tools
 
-🐍 Exploring Python and automation
+## 🎯 Current Focus
 
-🚀 Building practical projects step by step
-
-## Current Focus
-
-* Git and GitHub
-* Open Source
-* Blockchain Infrastructure
-* AI Tools
+- Agent-native data services and infrastructure
+- AI agent discovery, identity and interoperability
+- Multichain blockchain applications
+- On-chain analytics and data access
+- Automated payments for AI agents
 
 ## 💻 Languages
 
@@ -36,32 +38,26 @@
 - **Shell** 0.1%
 <!-- LANGUAGES:END -->
 
-## Projects
+## 🚀 Projects
+
+### NFT Data + NFT Data MCP
+
+**Multichain NFT market intelligence for AI agents, available through an API, OpenSea Agent Tool and Model Context Protocol (MCP).**
+
+[Open website](https://www.nftdata.app/) • [API repository](https://github.com/Nomad07/nft-data) • [MCP repository](https://github.com/Nomad07/nftdata-mcp) • [OpenSea Tool #778](https://opensea.io/tools/erc8257/base/778) • [McpRush](https://mcprush.com/nomad07/nftdata-mcp)
 
 ### Arc ERC-8004 Explorer
 
-**Discover and inspect ERC-8004 agents on Arc Mainnet and Testnet.**
+**Discover and inspect ERC-8004 agents on Arc Mainnet and Testnet through a public explorer and read-only API.**
 
-<p>
-  <a href="https://arcagents.app/">
-    <img src="https://img.shields.io/badge/%E2%86%92%20OPEN%20EXPLORER-111827?style=for-the-badge" alt="Open Explorer">
-  </a>
-  &nbsp;
-  <a href="https://github.com/Nomad07/arc-erc8004-explorer">
-    <img src="https://img.shields.io/badge/%E2%86%92%20VIEW%20SOURCE-111827?style=for-the-badge" alt="View Source">
-  </a>
-</p>
-
-### NFT Data
-
-**A read-only OpenSea Agent Tool providing structured multichain NFT collection and market data for AI agents.**
-
-[Open website](https://nftdata.app/) • [View repository](https://github.com/Nomad07/nft-data) • [View Tool #778](https://opensea.io/tools/erc8257/base/778)
+[Open Explorer](https://arcagents.app/) • [View repository](https://github.com/Nomad07/arc-erc8004-explorer)
 
 ### Arc Agent ID
 
-A Python toolkit for registering, checking and updating AI agent identities on Arc Mainnet and Testnet using ERC-8004.
+**A Python toolkit for interacting with ERC-8004 agent identity, reputation and validation registries on Arc Mainnet and Testnet.**
 
 [View repository](https://github.com/Nomad07/arc-agent-id)
 
-Thanks for visiting my profile!
+---
+
+Building open infrastructure for the next generation of AI-powered applications.
