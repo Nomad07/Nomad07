@@ -30,10 +30,10 @@ My work focuses on:
 ## 💻 Languages
 
 <!-- LANGUAGES:START -->
-- **Solidity** 62.8%
-- **TypeScript** 24.9%
-- **HTML** 6.2%
-- **Python** 5.2%
+- **Solidity** 60.2%
+- **TypeScript** 28.0%
+- **HTML** 5.9%
+- **Python** 5.0%
 - **CSS** 0.8%
 - **Shell** 0.1%
 <!-- LANGUAGES:END -->
