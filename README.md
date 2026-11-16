@@ -40,17 +40,39 @@ My work focuses on:
 
 ## 🚀 Projects
 
-### NFT Data + NFT Data MCP
+### NFT Data
 
-**Multichain NFT market intelligence for AI agents, available through an API, OpenSea Agent Tool and Model Context Protocol (MCP).**
+**Multichain NFT collection and market data service using OpenSea API v2, providing collection statistics and market intelligence across 30 networks.**
 
-[Open website](https://www.nftdata.app/) • [API repository](https://github.com/Nomad07/nft-data) • [MCP repository](https://github.com/Nomad07/nftdata-mcp) • [OpenSea Tool #778](https://opensea.io/tools/erc8257/base/778) • [McpRush](https://mcprush.com/nomad07/nftdata-mcp)
+[Open website](https://www.nftdata.app/) • [API repository](https://github.com/Nomad07/nft-data) • [OpenSea Tool #778](https://opensea.io/tools/erc8257/base/778)
+
+### NFT Data MCP
+
+**An open-source MCP server that gives AI assistants and agents access to multichain NFT collection and market data through the get_collection_data tool, using OpenSea API v2.**
+
+- x402 v2 payments on Base Mainnet and Solana Mainnet.
+- MPP payments on Base Mainnet.
+- $0.002 USDC per successful request.
+- No subscriptions or API keys.
+
+[GitHub](https://github.com/Nomad07/nftdata-mcp) • [npm](https://www.npmjs.com/package/nftdata-mcp) • [Agent Skill](https://github.com/Nomad07/nftdata-mcp/blob/main/SKILL.md)
 
 ### Arc ERC-8004 Explorer
 
 **Discover and inspect ERC-8004 agents on Arc Mainnet and Testnet through a public explorer and read-only API.**
 
-[Open Explorer](https://arcagents.app/) • [View repository](https://github.com/Nomad07/arc-erc8004-explorer)
+[Open Explorer](https://www.arcagents.app/) • [View repository](https://github.com/Nomad07/arc-erc8004-explorer)
+
+### Arc Agents MCP
+
+**An open-source MCP server that brings ERC-8004 agent identity and reputation data from Arc Mainnet directly into AI assistants and autonomous agents through the get_agent_data tool.**
+
+- x402 v2 payments on Arc Mainnet and Base Mainnet.
+- $0.002 USDC per successful request.
+- Agent Skill for AI coding agents, with installation and configuration instructions.
+- No subscriptions or API keys.
+
+[GitHub](https://github.com/Nomad07/arcagents-mcp) • [npm](https://www.npmjs.com/package/arcagents-mcp) • [Agent Skill](https://github.com/Nomad07/arcagents-mcp/blob/main/SKILL.md)
 
 ### Arc Agent ID
 
