@@ -1,4 +1,6 @@
- <p align="center">
+
+
+<p align="center">
   <img src="banner.png" alt="Nomad Banner" width="100%">
 </p>
 
@@ -13,6 +15,7 @@ Building open-source products at the intersection of blockchain infrastructure, 
 I build practical tools and infrastructure for the evolving Web3 and AI ecosystems.
 
 My work focuses on:
+
 - Blockchain infrastructure and on-chain data
 - AI agent tools and Model Context Protocol (MCP)
 - ERC-8004 agent identity and discovery
@@ -42,7 +45,7 @@ My work focuses on:
 
 ### NFT Data
 
-**Multichain NFT collection and market data service using OpenSea API v2, providing collection statistics and market intelligence across 30 networks.**
+**NFT Data is a pay-per-request multichain API for AI agents and developer tools, providing structured market data for OpenSea collections across 30 networks.**
 
 [Open website](https://www.nftdata.app/) • [API repository](https://github.com/Nomad07/nft-data) • [OpenSea Tool #778](https://opensea.io/tools/erc8257/base/778)
 
@@ -61,7 +64,7 @@ My work focuses on:
 
 **Discover and inspect ERC-8004 agents on Arc Mainnet and Testnet through a public explorer and read-only API.**
 
-[Open Explorer](https://www.arcagents.app/) • [View repository](https://github.com/Nomad07/arc-erc8004-explorer)
+[Open Explorer](https://www.arcagents.app/) • [API repository](https://github.com/Nomad07/arc-erc8004-explorer)
 
 ### Arc Agents MCP
 
@@ -83,3 +86,4 @@ My work focuses on:
 ---
 
 Building open infrastructure for the next generation of AI-powered applications.
+
