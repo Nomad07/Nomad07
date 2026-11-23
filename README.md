@@ -33,11 +33,11 @@ My work focuses on:
 ## 💻 Languages
 
 <!-- LANGUAGES:START -->
-- **Solidity** 56.7%
-- **TypeScript** 31.9%
-- **HTML** 5.8%
-- **Python** 4.7%
-- **CSS** 0.8%
+- **Solidity** 54.7%
+- **TypeScript** 34.3%
+- **HTML** 5.6%
+- **Python** 4.5%
+- **CSS** 0.7%
 - **Shell** 0.1%
 <!-- LANGUAGES:END -->
 
